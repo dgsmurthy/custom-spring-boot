@@ -1,5 +1,5 @@
 # custom-spring-boot
-Implemented a complete custom Spring Boot starter for rate limiting. Here's a summary:
+Implemented a complete custom Spring Boot starter for rate limiting. Here's a summary: \
 Custom Spring Boot Starter Structure
 
 custom-starter/
