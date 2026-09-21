@@ -20,7 +20,7 @@ custom-starter/ \
 │           ├── RateLimitInterceptor.java      # Property-based limiting \
 │           └── RateLimitExceptionHandler.java # @ControllerAdvice \
 │
-└── ratelimit-example-app/             # Demo application \
+└── ratelimit-example-app/             # Demo application
 
 Key Spring Boot Starter Components \
 Component	Purpose \
@@ -28,7 +28,7 @@ Component	Purpose \
 @AutoConfiguration	Creates beans automatically \
 @ConditionalOnProperty	Only activates when enabled \
 @ConditionalOnMissingBean	Allows user overrides \
-META-INF/spring/*.imports	Registers auto-configuration \
+META-INF/spring/*.imports	Registers auto-configuration
 
 To build and use: \
 cd custom-starter/ratelimit-spring-boot-starter && mvn clean install \
