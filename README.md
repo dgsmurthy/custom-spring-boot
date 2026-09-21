@@ -31,7 +31,6 @@ Component	Purpose
 META-INF/spring/*.imports	Registers auto-configuration
 
 To build and use:
-
 cd custom-starter/ratelimit-spring-boot-starter && mvn clean install
 Add the dependency to your project
 Use @RateLimit annotation or configure via properties
